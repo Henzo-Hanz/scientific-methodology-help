@@ -1,6 +1,7 @@
 
 ---
-name: resumo-resenha-recensao-abnt
+name: scientific-methodology-help
+
 description: >
   Especialista em Resumo, Resenha e Recensão conforme a ABNT NBR 6028:2021.
   Auxilia na elaboração, revisão, validação e adequação de textos acadêmicos,
