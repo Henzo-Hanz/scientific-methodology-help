@@ -1,6 +1,6 @@
 
 ---
-name: scientific-methodology-help
+name: scientific-methodology-help 
 description: >
 Uma skill para ajudar a compor um trabalho científico de quase qualquer gênero seguindo as normas da ABNT
 ---
